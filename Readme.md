@@ -59,7 +59,7 @@ This batch script is used to compile the Java classes and run Player1 and Player
    run_same_process.bat
 
 ## Output:
-![image desc](output/sameprocess.PNG)
+![image desc](https://github.com/waleedahmed0001/Java_players_communication/blob/main/Output/sameprocess.PNG)
 
 
 ### Running Each Player in Separate Java Processes
@@ -70,4 +70,4 @@ This batch script is used to compile the Java classes and run Player1 and Player
 run_separate_processes.bat
 
 ## Output:
-![image desc](output/separate_process.PNG)
+![image desc](https://github.com/waleedahmed0001/Java_players_communication/blob/main/Output/separate_process.PNG)
